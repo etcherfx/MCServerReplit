@@ -15,6 +15,9 @@ A fork of SimerLol's [Minecraft Server Template](https://replit.com/@SimerLol/Mi
 
 </div>
 
+> [!WARNING]
+> This project is now archived. Replit has become increasingly unusable due to excessive AI integration and paywalls, making it no longer a suitable platform for this project.
+
 ## 📖 Table of Contents
 
 - [📖 Table of Contents](#-table-of-contents)
